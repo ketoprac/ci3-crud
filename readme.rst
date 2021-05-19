@@ -11,6 +11,12 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
+Simple CRUD Web Application
+*******************
+
+Made with CodeIgniter 3 & Bootstrap 5
+
+*******************
 Release Information
 *******************
 
