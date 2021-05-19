@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.login-form form {
+  margin-top: 120px;
+  width: 480px;
+  padding: 64px;
+  color: white;
+  border-radius: 10px;
+}
+
+.form-input .card {
+  max-width: 700px;
+}
+
+.form-input form {
+  width: 640px;
+  padding: 64px;
+  border-radius: 10px;
+}
